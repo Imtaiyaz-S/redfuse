@@ -1,4 +1,4 @@
-package com.example.redfuse
+package com.digisolcona.redfuse
 
 import io.flutter.embedding.android.FlutterActivity
 
